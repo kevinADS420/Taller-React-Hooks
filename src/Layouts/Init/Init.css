@@ -1,0 +1,34 @@
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 340px;
+    background: -webkit-linear-gradient(90deg, #bdf6e7,#5fb8e0,#8069b1);                       
+    font-family: cursive;
+}
+
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    border: solid #000000;
+    max-width: 400px;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+.button{
+    border: 0;
+    background-color: black;
+}
+
+
